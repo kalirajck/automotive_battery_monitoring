@@ -27,3 +27,6 @@ Real-time electric vehicle battery health monitoring using Apache Kafka streamin
 - `docs/` - Documentation
 - `sql/` - Database setup scripts
 - `data/` - Sample data schemas
+=======
+# automotive_battery_monitoring
+Real-time EV battery health monitoring using Kafka streaming - Confluent Developer Day Competition
